@@ -1,0 +1,26 @@
+{
+  "source": {
+    "path": "missing-end.tar",
+    "bytes": 5632,
+    "sha256": "e534976877df54e7249773f2a72fa4f05345fb66be55ece81ca15f17582e24ef"
+  },
+  "windows": [
+    {
+      "entity": 1,
+      "start": 0,
+      "length": 5
+    },
+    {
+      "entity": 2,
+      "start": 0,
+      "length": 16
+    },
+    {
+      "entity": 3,
+      "start": 1,
+      "length": 2
+    }
+  ],
+  "max_chunk_bytes": 4096,
+  "max_index_members": 10000
+}

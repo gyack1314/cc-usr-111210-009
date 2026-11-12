@@ -1,0 +1,16 @@
+{
+  "source": {
+    "path": "warehouse.tar",
+    "bytes": 6656,
+    "sha256": "dde0b18353ed7b32abe76f598186c8ff96af7d42a9c1bc06b12695308b726320"
+  },
+  "windows": [
+    {
+      "entity": 2,
+      "start": 13,
+      "length": 19
+    }
+  ],
+  "max_chunk_bytes": 4096,
+  "max_index_members": 10000
+}
